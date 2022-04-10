@@ -3,9 +3,10 @@
 
 ## LIVE AT: https://mumbai.polygonscan.com/address/0x35A8d1E76e505E0f4b7be227f19FF0222f443366
 
-
-
 ## About
+
+![logo](https://github.com/0xWick/chainlink-vrf/blob/19b0214f500e8dffa8a6f9e27b920c828058b7be/RandomWinnerGame/hardhat/0.png) =250x250)
+
 When dealing with computers, randomness is an important but difficult issue to handle due to a computer's deterministic nature.
 This is true even more so when speaking of blockchain because not only is the computer deterministic, but it is also transparent.
 As a result, trusted random numbers cannot be generated natively in Solidity because randomness will be calculated
@@ -15,14 +16,11 @@ So we can use some web2 technologies to generate the randomness and then use the
 
 ## Stack
 
-React
-Next.js
+Hardhat (Solidity)
 
-Vercel
+Polygon (Mumbai testnet)
 
-Solidity (Hardhat)
-
-IPFS (Pinata)
+Chainlink VRF
 
 ## Oracles
 
@@ -32,7 +30,7 @@ IPFS (Pinata)
 * However it is important to note that the blockchain oracle is not itself the data source
   but its job is to query, verify and authenticate the outside data and then futher pass it to the smart contract.
 
-![logo](https://github.com/0xWick/chainlink-vrf/blob/19b0214f500e8dffa8a6f9e27b920c828058b7be/RandomWinnerGame/hardhat/0.png) =250x250)
+
 
 Let's start building 🚀
 
