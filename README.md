@@ -5,7 +5,7 @@
 
 ## About
 
-![logo](https://github.com/0xWick/chainlink-vrf/blob/19b0214f500e8dffa8a6f9e27b920c828058b7be/RandomWinnerGame/hardhat/0.png) =250x250)
+![logo](https://github.com/0xWick/chainlink-vrf/blob/19b0214f500e8dffa8a6f9e27b920c828058b7be/RandomWinnerGame/hardhat/0.png))
 
 When dealing with computers, randomness is an important but difficult issue to handle due to a computer's deterministic nature.
 This is true even more so when speaking of blockchain because not only is the computer deterministic, but it is also transparent.
